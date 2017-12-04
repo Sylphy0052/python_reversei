@@ -1,0 +1,2 @@
+# python_reversei
+pythonと機械学習とオセロの練習のため
